@@ -76,6 +76,7 @@ Beberapa metrik tambahan dibuat untuk mendukung analisis:
 ---
 
 ### Dashboard (Looker Studio)
+https://datastudio.google.com/reporting/207b492f-233b-404b-b957-b278c6ce82ae 
 
 Dashboard interaktif dikembangkan untuk menampilkan insight utama, meliputi:
 
